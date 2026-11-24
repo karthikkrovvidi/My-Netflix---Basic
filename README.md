@@ -45,4 +45,9 @@ MyNetflix/
 
 ## Author
 
-B.Tech in Computer Science and Engineering, Swarnandhra College of Engineering and Technology (2021–2025)
+Krovvidi Karthik Sai Sri Rama Raju
+B.Tech in Computer Science and Engineering
+Email: krovvidikarthik@gmail.com
+LinkedIn: https://linkedin.com/karthik-sai-sri-rama-raju-krovvidi
+GitHub: https://github.com/karthikkrovvidi
+
