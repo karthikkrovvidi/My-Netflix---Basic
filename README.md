@@ -46,7 +46,9 @@ MyNetflix/
 ## Author
 
 Krovvidi Karthik Sai Sri Rama Raju
+
 B.Tech in Computer Science and Engineering
+
 Email: krovvidikarthik@gmail.com
 LinkedIn: https://linkedin.com/karthik-sai-sri-rama-raju-krovvidi
 GitHub: https://github.com/karthikkrovvidi
